@@ -63,11 +63,7 @@ export default StyleSheet.create({
         "marginTop": 110,
         "marginRight": 0,
         "marginBottom": -10,
-        "marginLeft": 0,
-        "boxShadow": "0px 0px 5px 5px rgba(0,0,0,0.3)"
-    },
-    "join:hover": {
-        "boxShadow": "0px 0px 8px 8px rgba(0,0,0,0.3)"
+        "marginLeft": 0
     },
     "join:active": {
         "outline": 0
