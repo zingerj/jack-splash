@@ -60,12 +60,17 @@ export default StyleSheet.create({
         "paddingRight": 10,
         "paddingBottom": 5,
         "paddingLeft": 10,
+        "boxShadow": "0px 10px rgba(255,255,255,0.3)",
+        "position": "relative",
         "marginTop": 110,
         "marginRight": 0,
         "marginBottom": -10,
         "marginLeft": 0
     },
     "join:active": {
+        "boxShadow": "none",
+        "top": 10,
+        "marginBottom": 0,
         "outline": 0
     }
 });
