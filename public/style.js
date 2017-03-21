@@ -48,7 +48,7 @@ export default StyleSheet.create({
         "border": "none",
         "background": "#fff",
         "borderRadius": 10,
-        "width": 220,
+        "width": 230,
         "height": 90,
         "fontSize": 50,
         "cursor": "pointer",
@@ -63,7 +63,11 @@ export default StyleSheet.create({
         "marginTop": 110,
         "marginRight": 0,
         "marginBottom": -10,
-        "marginLeft": 0
+        "marginLeft": 0,
+        "boxShadow": "2px 2px 2px rgba(0,0,0,0.3)"
+    },
+    "join:hover": {
+        "boxShadow": "5px 5px 5px rgba(0,0,0,0.3)"
     },
     "join:active": {
         "outline": 0
