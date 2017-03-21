@@ -64,10 +64,10 @@ export default StyleSheet.create({
         "marginRight": 0,
         "marginBottom": -10,
         "marginLeft": 0,
-        "boxShadow": "0px 0px 5px 3px rgba(0,0,0,0.3)"
+        "boxShadow": "0px 0px 5px 5px rgba(0,0,0,0.3)"
     },
     "join:hover": {
-        "boxShadow": "0px 0px 8px 5px rgba(0,0,0,0.3)"
+        "boxShadow": "0px 0px 8px 8px rgba(0,0,0,0.3)"
     },
     "join:active": {
         "outline": 0
