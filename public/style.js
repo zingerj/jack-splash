@@ -42,7 +42,10 @@ export default StyleSheet.create({
     "coming": {
         "fontSize": 80,
         "fontWeight": "bold",
-        "color": "white"
+        "color": "white",
+        "display": "flex",
+        "justifyContent": "center",
+        "alignItems": "center"
     },
     "join": {
         "border": "none",
