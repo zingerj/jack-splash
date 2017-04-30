@@ -35,6 +35,7 @@ export default StyleSheet.create({
         "fontFamily": "\"Helvetica Neue\", Helvetica, sans-serif",
         "fontSize": 80,
         "fontWeight": "bold",
-        "color": "white"
+        "color": "white",
+        "textAlign": "center"
     }
 });
